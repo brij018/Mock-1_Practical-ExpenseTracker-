@@ -5,7 +5,7 @@ A simple and user-friendly **Expense Tracker** web application designed to help 
 The project was developed as part of a practical assignment and demonstrates the use of **HTML, CSS, and JavaScript** to build an interactive expense management application.
 
 ---
-# Video Explaination:
+# Video Explaination
 
    https://drive.google.com/file/d/1-0BCWhzqE8jEJVDPWNc7VQoRjVsXrcU0/view?usp=sharing
    
